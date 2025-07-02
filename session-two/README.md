@@ -18,6 +18,15 @@ layout="vertical">
 	   src="gh:EmilyHughes73/plant-humanities-summerprogram/main/session-two/Fleece1.jpg"
 	   caption= "Modern wool dyed with Madder.">
 	   
+	   
+### How to pronounce Madder?
+
+Here is how to pronounce Mader.
+
+<param ve-audio
+	   src="wc:LL-Q1860_(eng)-Persent101-madder.wav"
+	   caption= "Man pronouncing Madder.">
+	   
 ### You're all red!
 
 *This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
