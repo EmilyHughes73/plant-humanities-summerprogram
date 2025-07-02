@@ -28,3 +28,22 @@ layout="vertical">
 <param ve-compare
 	   src="wc:Rubii2.JPG">
 	   
+	   
+### Video paragraph
+
+*This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. [^1]
+<param ve-video
+	   src="https://www.youtube.com/watch?v=4BNraIwXaf0"
+	   start="0"
+	   end="60">
+	   
+	   
+### Website paragraph
+*This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. 
+
+<param ve-iframe
+	   src="https://plantsandcolour.co.uk/dyeing-with-madder-a-deep-dive"
+	   caption="Guide to dying with Madder.">
+	   
+
+[^1]: Source for video.
