@@ -10,9 +10,7 @@ layout="vertical">
 
 ### What's the Madder?
 
-*[Rubia Tinctorum](https://en.wikipedia.org/wiki/Rubia_tinctorum)* is a plant used for dying...
-
-*This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+*[Rubia Tinctorum](https://en.wikipedia.org/wiki/Rubia_tinctorum)* is a plant used for dying... This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
 <param ve-image
 	   src="gh:EmilyHughes73/plant-humanities-summerprogram/main/session-two/Fleece1.jpg"
@@ -21,11 +19,13 @@ layout="vertical">
 	   
 ### How to pronounce Madder?
 
-Here is how to pronounce Mader.
+*This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 
-<param ve-audio
-	   src="wc:LL-Q1860_(eng)-Persent101-madder.wav"
-	   caption= "Man pronouncing Madder.">
+`audio wc:De-Färberkrapp.ogg`
+
+<param ve-image
+	   src="wc:Rubia_tinctorum.jpg"
+	   caption="Image of Madder.">
 	   
 ### You're all red!
 
@@ -42,7 +42,7 @@ Here is how to pronounce Mader.
 
 *This is a filler paragraph.* **This is a filler paragraph.** This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. [^1]
 <param ve-video
-	   src="https://www.youtube.com/watch?v=4BNraIwXaf0"
+	   src="https://www.youtube.com/watch?v=QO1y1wJduCo"
 	   start="0"
 	   end="60">
 	   
@@ -54,5 +54,19 @@ Here is how to pronounce Mader.
 	   src="https://plantsandcolour.co.uk/dyeing-with-madder-a-deep-dive"
 	   caption="Guide to dying with Madder.">
 	   
+### Archive.org paragraph
+This is a primary source from the Internet Archive on Madder.
+	   
+<param ve-iframe
+	   src="https://archive.org/details/collectiondecur00gofm/page/n41"
+	   caption="Guide to dying with Madder.">
+	   
+	   
+### Timeline paragraph
+Filler filler filler filler filler.
+
+<param ve-iframe
+	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQGF8MT5DJYT8Gazk35Qe2nazI67mlRXGmd0BgvPx9B_HAljhtcBkhMkNMBQ4Gb1rY6GUjEL6gFevI-&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+caption="Timeline of Madder popularity.">
 
 [^1]: Source for video.
